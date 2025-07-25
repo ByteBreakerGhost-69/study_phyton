@@ -1,4 +1,4 @@
-      print("helldo maulana let's learn python")
+ print("helldo maulana let's learn python")
     
       # algoritma adalah langkah-langkah logis dan terstruktur untuk menyelesaikan suatu masalah
     
